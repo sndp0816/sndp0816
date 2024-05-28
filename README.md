@@ -12,11 +12,16 @@
 
 ```javascript
 const Sandeep = {
-  pronouns: "he" | "him",
-  code: [Java, Mysql, Dart, HTML, CSS, Javascript, Node.js, Python, JSON],
-  tools: [Postman, Git, Node, Linux, Flutter, REST-API, Sqlite, Hive, Docker, Kafka ],
+  Pronouns: "He" | "him",
+  Code: [Dart, Java, Mysql,  HTML, CSS, Javascript, Node.js, Python, JSON],
+  Tools: [Flutter, Postman, Thunder Client, Git, Node.js, REST-API,  Sqlite, Hive, Docker, Linux, Kafka ],
   
- challenge: "I am doing development #100DaysOfCode challenge focused on Android & IOS applications and devops"
+  "Services i mostly use"
+  Services:[ MongoDB, Railway.app, Cloudnary, Firebase, Heroku, Google Cloud, Hostinger, ]
+  
+  "Things i love to do"
+  Things:[making and breaking things specially mobile apps and services]
+
 }
 ```
 <a href="https://badgr.com/public/assertions/Rb391N_gTeO6djA7OOt54g"><img src="/Certificate/postman.png" width="400" height="200"></a>
